@@ -1,5 +1,5 @@
 
-# SecureX Industrial Control System
+# SecureX Industrial System
 
 ## 🛡️ Overview
 SecureX is a comprehensive industrial control and security platform divided into three main components:
@@ -14,7 +14,6 @@ cd node/src && npm start
 ```
 
 2. Access the platform interface:
-- Default URL: https://[your-repl-url]
 - Login: dev
 - Password: Thedev7845
 
@@ -66,12 +65,6 @@ cd ../../platform/src && npm install
 ```bash
 cd node/src && npm start
 ```
-2. Access the web interface through your Replit URL
+2. Access the web interface 
 3. Log in with provided credentials
 4. Configure devices and start monitoring
-
-## 👥 Support
-For issues and support, please use the Replit community forums or contact the development team.
-
-## 📝 License
-Licensed under MIT License. See LICENSE file for details.
