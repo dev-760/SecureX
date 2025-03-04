@@ -1,0 +1,39 @@
+# SecureX Industrial - Blockchain Security Platform
+
+## Project Description
+SecureX Industrial is a comprehensive security platform for industrial control systems (ICS) and operational technology (OT) environments. It leverages blockchain technology to create immutable audit trails while providing advanced monitoring, threat detection, and secure control capabilities for industrial protocols including Modbus, DNP3, and OPC UA.
+
+## Target Users
+- Industrial cybersecurity specialists
+- OT/IT security managers
+- Plant operations managers
+- Industrial automation engineers
+- Compliance officers
+
+## Key Features
+1. Real-time monitoring dashboards with industrial protocol support
+2. Blockchain-based immutable audit trails for security events
+3. Role-based access control with principle of least privilege
+4. Anomaly detection for industrial operations
+5. Integration with existing SCADA and ICS systems
+6. Support for multi-protocol industrial environments
+
+## Technologies Used
+- Node.js (v16+) with Express for backend API
+- MongoDB for operational data storage
+- Hyperledger Fabric for blockchain ledger
+- React.js for frontend interface
+- Industrial protocol libraries (Modbus, OPC UA)
+- JWT authentication with role-based security
+
+## Implementation Plan
+1. Core API and authentication framework - Complete
+2. Industrial protocol integration layer - 80% Complete
+3. Blockchain ledger integration - 60% Complete 
+4. Dashboard and visualization - 90% Complete
+5. User and device management - Complete
+6. Analytics and reporting - 70% Complete
+
+## Current Status
+The system is in late-stage development with most core features implemented.
+Security testing and industrial protocol validation are ongoing.
